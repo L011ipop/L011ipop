@@ -2,18 +2,12 @@
 
 <!--
 **L011ipop/L011ipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是贾永志
+<s>我爱好打游戏看电影，对游戏行业有兴趣，也了解了许多业内知识</s>
+### 对计算机产业无畅享
+##技能树点的科技发展
+>技术偏好：
+无技术
 
-Here are some ideas to get you started:
-
--🔭我目前正在研究...学习
--🌱我正在学习...大数据
--looking我正在寻求合作...忘了
--🤔我正在寻求有关...的帮助游戏制作
--💬问我关于...无
--📫如何联络我：...我的qq可以
--😄代词：...无
--⚡有趣的事实：... s10分组结束
-我是贾永志大数据一个班学生
-w
-
+期待收获知识
 -->
